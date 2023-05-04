@@ -16,5 +16,8 @@ This web page depends on the following:
 # Credits
 This web page was created by Harun Mansuri and is based on the waifu.im API.
 
+# Contributing
+If you would like to contribute to this project, feel free to submit a pull request.
+
 # License
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use the code and modify it as you wish.
